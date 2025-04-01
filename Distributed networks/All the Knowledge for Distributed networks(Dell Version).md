@@ -277,7 +277,7 @@ When you use `ip helper-address`, it **automatically forwards** these 8 types of
 | 69       | TFTP (Trivial File Transfer) |
 | 137      | NetBIOS name service         |
 | 138      | NetBIOS datagram service     |
-
+**
 ---
 
 ## ✅ TL;DR Summary
