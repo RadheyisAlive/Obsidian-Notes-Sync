@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "39521897f4d3fb1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0f3dd628619a982",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a048c176f81917de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/TOP 40 questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TOP 40 questions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "071d58b1001a79f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "581c5ba582e7371a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a754d4559ee9a50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "462368df3d4dc3fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "038fc0c352891808",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "687c636a012e2a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "a85237d88ff5cc85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63e04e8b600732c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7cc23e58cb661b6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS/Information for AWS cloud Practitioner Exam.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Information for AWS cloud Practitioner Exam"
+            }
+          },
+          {
+            "id": "d9ab4b8c9c460075",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS/Information for AWS cloud Practitioner Exam.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Information for AWS cloud Practitioner Exam"
+            }
+          },
+          {
+            "id": "414956a8d16ea928",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS/Information for AWS cloud Practitioner Exam.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Information for AWS cloud Practitioner Exam"
+            }
+          },
+          {
+            "id": "29281af291bd55b4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "a048c176f81917de",
+  "lastOpenFiles": [
+    "AWS/All the information in one page.md",
+    "AWS/TOP 40 questions.md",
+    "AWS/Questions you needed to know.md",
+    "AWS/Information for AWS cloud Practitioner Exam.md",
+    "AWS/Doing 1400 questions from youtube.md",
+    "2025-02-03.md",
+    "Untitled 3.canvas",
+    "Targets no matter what !!.md",
+    "radhey.css",
+    "15-19-2024.md",
+    "2025-01-30.md",
+    "Untitled 2.canvas",
+    "Python FOP/Python FOP.md",
+    "AWS/Youtube questions.md",
+    "Untitled 1.canvas",
+    "AWS/IF Wanna Understand AWS perfectly.md",
+    "AWS/All topics named.md",
+    "Media Note - CLF-C02 New AWS Certified Cloud Practitioner Foundational Exam Question and Answers _ Pass CLF-C01.md",
+    "Pasted image 20250130141115.png",
+    "Pasted image 20250130140953.png",
+    "Pasted image 20250130135620.png",
+    "Pasted image 20250130134749.png",
+    "Copywriting course Udemy/Courses- Achievements/Apna College.md",
+    "Copywriting course Udemy/Python.md",
+    "Copywriting course Udemy/Networking.md",
+    "Copywriting course Udemy/Learn Git.md",
+    "Copywriting course Udemy/Java.md",
+    "Copywriting course Udemy/DSA(FreeCodeCamp.org).md",
+    "Copywriting course Udemy/Courses- Achievements.md",
+    "Copywriting course Udemy/C programming.md",
+    "Copywriting course Udemy/Apna College.md",
+    "Copywriting course Udemy/100 days Coding Bootcamp Udemy.md",
+    "Python FOP/Lecture 7  Relationships in Object - Orientation !!.md",
+    "Python FOP/Lecture 2_ Strings and List.md",
+    "Untitled 3 5.png",
+    "Untitled.canvas",
+    "0xcu7jls.bmp",
+    "Pasted image 20250128101725.png",
+    "Pasted image 20250128102438.png",
+    "1.jpg",
+    "Worksheet7_Modularity_2024_V1.pdf",
+    "Untitled.png",
+    "Untitled.pdf",
+    "Statistics(2).py",
+    "Lecture08_testing_Part1_1pp_2023S2_V2.pdf",
+    "Lecture7_Modularity_1pp_2024_S1_V1.pdf",
+    "Lecture6_VersionControl_1pp_2024_S1(1).pdf",
+    "Lecture03_Pointers_for_UNIX_and_C_programmign.pdf",
+    "Lecture2_AgileProjectManagement_2024_S1_1pp.pdf",
+    "Lecture1_Planning_2024_S1_1pp.pdf",
+    "Images/Untitled.canvas",
+    "Untitled - Copy.canvas"
+  ]
+}

@@ -1,0 +1,1 @@
+![[Introduction_to_Software_Engineering_(ISAD1000)_-_Lecture_4_Version_Control_-_Lecture5_Ethics_2024V1.pdf]]

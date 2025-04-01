@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "39521897f4d3fb1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fadae6fb9c551aa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a8b6f6cdef4d352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python FOP/Lecture 3 arrays and Plotting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 3 arrays and Plotting"
+            }
+          },
+          {
+            "id": "ee1e5a684d69de48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data communications and Networking Management/What is Layers in TCP IP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is Layers in TCP IP"
+            }
+          },
+          {
+            "id": "8195402371c93e38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data communications and Networking Management/How is Data communicated between hosts and routers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How is Data communicated between hosts and routers"
+            }
+          },
+          {
+            "id": "beb39674a916c54b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "071d58b1001a79f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "581c5ba582e7371a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a754d4559ee9a50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "462368df3d4dc3fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "038fc0c352891808",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "687c636a012e2a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "a85237d88ff5cc85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63e04e8b600732c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7cc23e58cb661b6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS/Information for AWS cloud Practitioner Exam.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Information for AWS cloud Practitioner Exam"
+            }
+          },
+          {
+            "id": "d9ab4b8c9c460075",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS/Information for AWS cloud Practitioner Exam.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Information for AWS cloud Practitioner Exam"
+            }
+          },
+          {
+            "id": "414956a8d16ea928",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS/Information for AWS cloud Practitioner Exam.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Information for AWS cloud Practitioner Exam"
+            }
+          },
+          {
+            "id": "29281af291bd55b4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "beb39674a916c54b",
+  "lastOpenFiles": [
+    "Data Communications and Network Management/assets/Physical layer and its standards/file-20250318102017929.png",
+    "Data Communications and Network Management/assets/Physical layer and its standards",
+    "Data Communications and Network Management/assets",
+    "Data communications and Networking Management/How is Data communicated between hosts and routers.md",
+    "Data communications and Networking Management/Default gateway.md",
+    "Data communications and Networking Management/What is Layers in TCP IP.md",
+    "Data communications and Networking Management/assets/What is Layers in TCP IP/file-20250316202311949.png",
+    "Data communications and Networking Management/assets/What is Layers in TCP IP",
+    "Data communications and Networking Management/assets",
+    "Python Learning From YT.md",
+    "assets/Python Learning From YT/file-20250316183836424.png",
+    "Life- The Magic you are looking for is in the Work you are avoiding !!/Big Money decisions.md",
+    "assets/Python Learning From YT/Untitled 4 2.png",
+    "assets/Python Learning From YT/Untitled 1.png",
+    "assets/Python Learning From YT/Untitled 3 2.png",
+    "assets/Python Learning From YT/Screenshot_2024-05-18_230101.png",
+    "Data Communications and Network Management/Intro to what are layers.md",
+    "Data Communications and Network Management",
+    "Distributed networks",
+    "Python FOP/Lecture 3 arrays and Plotting.md",
+    "AWS/Information for AWS cloud Practitioner Exam.md",
+    "2025-01-29.md",
+    "All together knowledge.md",
+    "EmployeeBenefitsAccountingPolicy - Copy.pdf",
+    "Certificates that I need - Copy.md",
+    "Backup - Copy.md",
+    "All together knowledge - Copy.md",
+    "All right let me cook now !! - Copy.md",
+    "2025-01-29 - Copy.md",
+    "assets/Python Learning From YT",
+    "assets",
+    "Python FOP/assets/Tips For Programming",
+    "Python FOP/assets/Functions And its Use/Screenshot_(22).png",
+    "Python FOP/assets/Functions And its Use/Screenshot_(19).png",
+    "AWS/assets/TOP 40 questions/Pasted image 20250203165551 1.png",
+    "AWS/assets/TOP 40 questions/Pasted image 20250203165417 1.png",
+    "Job Hunt should keep going/How to use Linkedln for cold emailing.md",
+    "AWS/Doing 1400 questions from youtube.md",
+    "AWS/TOP 40 questions.md",
+    "AWS/IF Wanna Understand AWS perfectly.md",
+    "Operating system/Worksheet 1.md",
+    "Operating system/General information for this Unit.md",
+    "AWS/Questions you needed to know.md",
+    "AWS/AWS.md",
+    "Job Hunt should keep going/Resume.md",
+    "Job Hunt should keep going/Untitled.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Images/Untitled.canvas",
+    "Untitled - Copy.canvas"
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "39521897f4d3fb1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fadae6fb9c551aa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "074adc742ab88f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Communications and Network Management/Default gateway.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Default gateway"
+            }
+          },
+          {
+            "id": "2a9e2eb2cd0eb34b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distributed networks/All the Knowledge for Distributed networks(Dell Version).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "All the Knowledge for Distributed networks(Dell Version)"
+            }
+          },
+          {
+            "id": "09b1775a138fc04b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "071d58b1001a79f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "581c5ba582e7371a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a754d4559ee9a50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "462368df3d4dc3fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "038fc0c352891808",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "687c636a012e2a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "a85237d88ff5cc85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63e04e8b600732c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7cc23e58cb661b6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS/Information for AWS cloud Practitioner Exam.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Information for AWS cloud Practitioner Exam"
+            }
+          },
+          {
+            "id": "d9ab4b8c9c460075",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS/Information for AWS cloud Practitioner Exam.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Information for AWS cloud Practitioner Exam"
+            }
+          },
+          {
+            "id": "414956a8d16ea928",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS/Information for AWS cloud Practitioner Exam.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Information for AWS cloud Practitioner Exam"
+            }
+          },
+          {
+            "id": "29281af291bd55b4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "09b1775a138fc04b",
+  "lastOpenFiles": [
+    "Distributed networks/All the Knowledge for Distributed networks(Dell Version).md",
+    "Notes.md",
+    "Distributed networks/assets/All Knowledge that I got for Distributed networks/file-20250330174152761.png",
+    "assets/Vlan truck/file-20250327192031471.png",
+    "Data Communications and Network Management/Questions or MCQs (Keep in mind).md",
+    "Distributed networks/assets/All Knowledge that I got for Distributed networks",
+    "Distributed networks/assets",
+    "assets/Vlan truck",
+    "Distributed networks/CAM (content accessible memory ).md",
+    "Data Communications and Network Management/Default gateway.md",
+    "Data Communications and Network Management/Properties of Wireless LAN.md",
+    "Python FOP/Lecture 3 arrays and Plotting.md",
+    "Data Communications and Network Management/assets/ARP(Address Resolution Protocol)/file-20250320130959304.png",
+    "Data Communications and Network Management/assets/ARP(Address Resolution Protocol)",
+    "Data Communications and Network Management/assets/Data Link layer/file-20250320023128526.png",
+    "Data Communications and Network Management/assets/Data Link layer",
+    "Data Communications and Network Management/assets/What is Layers in TCP IP/file-20250316202311949.png",
+    "Data Communications and Network Management/assets/What is Layers in TCP IP",
+    "Data Communications and Network Management/What is Layers in TCP IP.md",
+    "Data Communications and Network Management/How is Data communicated between hosts and routers.md",
+    "Data Communications and Network Management/assets/Physical layer and its standards/file-20250318102017929.png",
+    "Data Communications and Network Management/assets/Physical layer and its standards",
+    "Data Communications and Network Management/assets",
+    "Data communications and Networking Management/How is Data communicated between hosts and routers.md",
+    "Data communications and Networking Management/Default gateway.md",
+    "Data communications and Networking Management/What is Layers in TCP IP.md",
+    "Data communications and Networking Management/assets/What is Layers in TCP IP/file-20250316202311949.png",
+    "Data communications and Networking Management/assets/What is Layers in TCP IP",
+    "Data communications and Networking Management/assets",
+    "Python Learning From YT.md",
+    "assets/Python Learning From YT/file-20250316183836424.png",
+    "Life- The Magic you are looking for is in the Work you are avoiding !!/Big Money decisions.md",
+    "assets/Python Learning From YT/Untitled 4 2.png",
+    "assets/Python Learning From YT/Untitled 1.png",
+    "Data Communications and Network Management/Intro to what are layers.md",
+    "AWS/Information for AWS cloud Practitioner Exam.md",
+    "2025-01-29.md",
+    "All together knowledge.md",
+    "Certificates that I need - Copy.md",
+    "Backup - Copy.md",
+    "All together knowledge - Copy.md",
+    "All right let me cook now !! - Copy.md",
+    "2025-01-29 - Copy.md",
+    "Job Hunt should keep going/How to use Linkedln for cold emailing.md",
+    "AWS/Doing 1400 questions from youtube.md",
+    "AWS/TOP 40 questions.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Images/Untitled.canvas",
+    "Untitled - Copy.canvas"
+  ]
+}

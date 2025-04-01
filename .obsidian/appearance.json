@@ -1,0 +1,8 @@
+{
+  "theme": "system",
+  "cssTheme": "Vanilla AMOLED Color",
+  "accentColor": "#6c0aff",
+  "enabledCssSnippets": [
+    "radhey"
+  ]
+}

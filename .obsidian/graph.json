@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "data communications",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Targets no matter what !!\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11474968
+      }
+    },
+    {
+      "query": "path:AWS  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"DSA(University one)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"IT Learnings\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 56826
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 0.9421875,
+  "lineSizeMultiplier": 2.44791666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.458333333333333,
+  "repelStrength": 13.4375,
+  "linkStrength": 0.479166666666667,
+  "linkDistance": 260,
+  "scale": 0.7132754626224642,
+  "close": false
+}

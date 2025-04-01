@@ -1,0 +1,31 @@
+# Ignore all image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.webp
+
+# Ignore videos
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+
+# Ignore other unnecessary files
+*.zip
+*.tar
+*.rar
+*.exe
+*.pdf
+*.docx
+*.xlsx
+
+# Ignore hidden system files
+.DS_Store
+Thumbs.db
+
+# Ignore my personalized files 
+*.canvas

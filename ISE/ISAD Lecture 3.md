@@ -1,0 +1,1 @@
+![[Introduction_to_Software_Engineering_(ISAD1000)_-_Lecture_2_Functional_Requirements_-_Lecture3_FunctionalReqs_1pp(1).pdf]]

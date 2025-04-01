@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "39521897f4d3fb1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fadae6fb9c551aa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a8b6f6cdef4d352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python FOP/Lecture 3 arrays and Plotting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 3 arrays and Plotting"
+            }
+          },
+          {
+            "id": "64b02a8039ace35e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Untitled 6 3.png"
+              },
+              "icon": "lucide-image",
+              "title": "Untitled 6 3"
+            }
+          },
+          {
+            "id": "e7195a7d73b2b1b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating system/Worksheet 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Worksheet 1"
+            }
+          },
+          {
+            "id": "74bd81f5ee0aa505",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
+            "id": "baaeb40abab2e608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data communications and Networking Management/What is Layers in TCP IP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is Layers in TCP IP"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "071d58b1001a79f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "581c5ba582e7371a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a754d4559ee9a50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "462368df3d4dc3fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "038fc0c352891808",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "687c636a012e2a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "a85237d88ff5cc85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63e04e8b600732c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7cc23e58cb661b6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS/Information for AWS cloud Practitioner Exam.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Information for AWS cloud Practitioner Exam"
+            }
+          },
+          {
+            "id": "d9ab4b8c9c460075",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS/Information for AWS cloud Practitioner Exam.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Information for AWS cloud Practitioner Exam"
+            }
+          },
+          {
+            "id": "414956a8d16ea928",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS/Information for AWS cloud Practitioner Exam.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Information for AWS cloud Practitioner Exam"
+            }
+          },
+          {
+            "id": "29281af291bd55b4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "baaeb40abab2e608",
+  "lastOpenFiles": [
+    "Data communications and Networking Management/What is Layers in TCP IP.md",
+    "Data communications and Networking Management",
+    "lecture1-OS-Overview(1).pdf",
+    "Operating system/Worksheet 1.md",
+    "Worksheet-1(2).pdf",
+    "Operating system/General information for this Unit.md",
+    "Untitled 6 3.png",
+    "AWS/Information for AWS cloud Practitioner Exam.md",
+    "Operating system",
+    "AWS/Doing 1400 questions from youtube.md",
+    "AWS/Questions you needed to know.md",
+    "AWS/AWS.md",
+    "Job Hunt should keep going/How to use Linkedln for cold emailing.md",
+    "Job Hunt should keep going/Resume.md",
+    "Pasted image 20250222164827.png",
+    "Job Hunt should keep going/Untitled.md",
+    "Pasted image 20250222163735.png",
+    "AWS/All the information in one page.md",
+    "AWS/All topics named.md",
+    "AWS/TOP 40 questions.md",
+    "AWS/IF Wanna Understand AWS perfectly.md",
+    "Job Hunt should keep going",
+    "DSA(University one)/DSA(University one).md",
+    "Python FOP/Lecture 3 arrays and Plotting.md",
+    "Courses online/Learn Git.md",
+    "Python FOP/Revision of FOP and knowledge build on that.md",
+    "Python FOP/Lecture 7  Relationships in Object - Orientation !!.md",
+    "Python FOP/Lecture 6.md",
+    "Python FOP/Lecture 4.md",
+    "Python FOP/VS Code Shortcuts.md",
+    "Python FOP/Lecture 2_ Strings and List.md",
+    "Python FOP/Tips For Programming.md",
+    "Python FOP/Shortcuts for Bash.md",
+    "Screenshot 2024-10-25 083200.png",
+    "EmployeeBenefitsAccountingPolicy.pdf",
+    "Untitled.pdf",
+    "Untitled.png",
+    "Pasted image 20250203170811.png",
+    "Untitled 3.canvas",
+    "Courses online",
+    "radhey.css",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Pasted image 20250130141115.png",
+    "Pasted image 20250130140953.png",
+    "Pasted image 20250130135620.png",
+    "Pasted image 20250130134749.png",
+    "Untitled.canvas",
+    "Worksheet7_Modularity_2024_V1.pdf",
+    "Images/Untitled.canvas",
+    "Untitled - Copy.canvas"
+  ]
+}
